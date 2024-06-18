@@ -1,0 +1,1 @@
+A bare bones text generating LLM built on GPT-2 and fine-tuned on [wikitext](https://huggingface.co/datasets/Salesforce/wikitext)
